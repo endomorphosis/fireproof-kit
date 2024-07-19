@@ -1,4 +1,4 @@
-This Repository is meant to bridge python to an Fireproof "local first" database instance running in nodejs. The Fireproof instance is also hosting a websocket server, and the python library uses its websocket connection to sync data to / from the orbitdb instance.
+This Repository is meant to bridge python to an Fireproof "local first" database  https://fireproof.storage/ instance running in nodejs. The Fireproof instance is also hosting a websocket server, and the python library uses its websocket connection to sync data to / from the Fireproof instance.
 
 
 
